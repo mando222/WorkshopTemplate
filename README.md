@@ -50,6 +50,6 @@ Screenshot of the above working
 **✅ Step 2a: The first step in the section.**
 **✅ Step 2b: Second step in the section**
 
-# # 5. Resources
+## 3. Resources
 For further reading and labs go to 
 [link name](URL) 
