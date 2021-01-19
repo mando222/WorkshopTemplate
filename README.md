@@ -3,7 +3,8 @@
 ##  DISCRIPTION HERE
 This is a discription of the cool stuff we are going to do in the session today
 
-![OK](https://BANNERURL)
+Banner
+<img src="https://user-images.githubusercontent.com/blah/blahblah.png" width=“700” />
 
 ## Before starting
 Workshop attendees will receave an email with the instance info prior to the workshop.
